@@ -1,0 +1,13 @@
+{
+	"scripts": {
+		"dev": "vite --mode serve-dev --host"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^2.3.3",
+		"eslint": "^8.18.0",
+		"vite": "^2.9.12"
+	},
+	"dependencies": {
+		"vue": "^3.2.37"
+	}
+}
